@@ -4,6 +4,15 @@ class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false,
+      appBar: PreferredSize(
+        preferredSize: Size.fromHeight(10.0),
+        child: AppBar(
+          brightness: Brightness.dark,
+          backgroundColor: Colors.transparent,
+          elevation: 0,
+        ),
+      ),
       backgroundColor: Color(0xff112033),
       body: SafeArea(
         child: Column(
@@ -15,7 +24,7 @@ class MainPage extends StatelessWidget {
                 width: double.infinity,
                 height: 140.0,
                 decoration: BoxDecoration(
-                  color: Color(0xff112033),
+                  color: Colors.transparent,
                   image: DecorationImage(
                     image:
                         AssetImage('assets/images/logos/aga-logo-footer.png'),

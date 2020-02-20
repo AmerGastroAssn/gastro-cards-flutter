@@ -82,15 +82,15 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		GIMJYOSGwGl8Aa+0FFGYEGKx1FU=
+		MsjSQBtyx8r92myQ7bfbbYFD2RY=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<data>
-		8LyiS2Dre4TnzdpUGKkMQvAxeZg=
+		YfBsKU0lCDQDzDynuBztdmDgsxg=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<data>
-		8N9tjKo7a5+UkuGjAViq/mx1nbE=
+		chR8xqu2kpGl06JG0UvcLVxZs6Q=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -98,19 +98,19 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
 		<data>
-		865xsps5a9z24ZY2cnMladcnFYk=
+		J14onS4gIcqlTpLnnojiL8Eo0gI=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<data>
-		rMDqlFOmDDo163lp8yaJfUOs8Hs=
+		8htgRVo5D4Zq6Ry4cKd3gO1OdkI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
 		<data>
-		Jq74wiGUV0pi8QRvHNJM40chjEM=
+		10LH/dI4dELoAvueDMmcPGn6Dek=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib</key>
 		<data>
-		j0cz7hH6wS2ItjyMHQ+Vo45Yops=
+		pl8P9Digg5A0Uhrf8uWtH4alBWs=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -118,15 +118,15 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib</key>
 		<data>
-		Vb7//V5KOc+MVvLVUjxO8FgvG6o=
+		VGjH0blYzRSkswxCmxKxbzSDgxE=
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib</key>
 		<data>
-		z1/PAlD+/6hPcEMyUT7RHMpLWqE=
+		dzH0miuN/EPpWbAreOIl6P61DiI=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		+DA0bRZgH2Afa2p8iTGeJqTGamI=
+		Tyv8JuLJNQCDunO2/N4MuIiOegk=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -134,11 +134,11 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2Vki7hcMdDYySg+PRWrmVgzxBxs=
+		Vlsq0LntW1GGP2xaCfu6jaMntRg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		I+LjMmIj+1hgvqXFX2gOr7Rfdv8=
+		rAERFeIgZdxw/3yZZFlWEOhie0Y=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -148,13 +148,17 @@
 		<data>
 		N2BgojfzVBUsob4mb0QwzeftNlI=
 		</data>
+		<key>Frameworks/App.framework/flutter_assets/assets/Gastro-cards.png</key>
+		<data>
+		1fw/fL8vfgcVD939SkexNPywf5w=
+		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/aga-logo-footer.png</key>
 		<data>
 		RlBW8dydD/BTRE9E/TUWzqxHyLw=
 		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/aga-logo.png</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/aga-logo-footer.png</key>
 		<data>
-		1iH2o9k90WeDEWJnejB1su7zY2U=
+		RlBW8dydD/BTRE9E/TUWzqxHyLw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
 		<data>
@@ -166,7 +170,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		EsLlRx6/kHdIHV4YJvSPnPNIdOs=
+		iXNA6xtSilSDa8NFXUp3F0r5Nkw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -444,33 +448,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GIMJYOSGwGl8Aa+0FFGYEGKx1FU=
+			MsjSQBtyx8r92myQ7bfbbYFD2RY=
 			</data>
 			<key>hash2</key>
 			<data>
-			bmfRf8R8oH4Fki2EVA8dkPPhCVYFxE2Ogx9OcEpNkwA=
+			NeYVxRBw0Ilg5Fgz7evOTiWe4+UI/+tjBkKcZtwvUfc=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8LyiS2Dre4TnzdpUGKkMQvAxeZg=
+			YfBsKU0lCDQDzDynuBztdmDgsxg=
 			</data>
 			<key>hash2</key>
 			<data>
-			e6FrzeqHAw6bGqd2aUBwsjME8wkOCiMyhfXxYBebZDc=
+			kIRbPAajEsQpOQ9kGmf9Xtd5JnYyXVoqmqF+PnprGwo=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8N9tjKo7a5+UkuGjAViq/mx1nbE=
+			chR8xqu2kpGl06JG0UvcLVxZs6Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			P+KBzbMFDeGrDhK/P+aBnfJaKRfkqlmfh2c8ADOayKk=
+			RqjSOmVOYHYnE59HpjhQebcy5P8kbjD9ib2FArycmdA=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -488,44 +492,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			865xsps5a9z24ZY2cnMladcnFYk=
+			J14onS4gIcqlTpLnnojiL8Eo0gI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HL7lRKr30ITMYGk3SX8SdMfcUKibhsZCTa42KKaJx3g=
+			qzfmrEExHeri7qIna4GRQU5qvrj5XrAr1l5hCX/QIOU=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rMDqlFOmDDo163lp8yaJfUOs8Hs=
+			8htgRVo5D4Zq6Ry4cKd3gO1OdkI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Et4bUihCXh1uG3sB5nGGcQZsB0yBkoEdDY2ypfegEyg=
+			RNDk69S+e5ysU5yzHAj/GOUAxuIOYO2jC32p8HP4tgk=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Jq74wiGUV0pi8QRvHNJM40chjEM=
+			10LH/dI4dELoAvueDMmcPGn6Dek=
 			</data>
 			<key>hash2</key>
 			<data>
-			A4zv2FW6BDyJ0NL98GnsWgZYu+SwspX1g2VDY8So61Q=
+			6dwpC5AAiAh9bSvEMc7w2WV4dWcMj4zvYRer4H4IAZc=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			j0cz7hH6wS2ItjyMHQ+Vo45Yops=
+			pl8P9Digg5A0Uhrf8uWtH4alBWs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Pysgre9nRK9r52yTVqQrrrYk57GRXtNy7ntuVWKCfGc=
+			aOQ7qSjNivTBNiPMSeuh5FhPtxouSHWif/6xpqyHvmQ=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -543,33 +547,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Vb7//V5KOc+MVvLVUjxO8FgvG6o=
+			VGjH0blYzRSkswxCmxKxbzSDgxE=
 			</data>
 			<key>hash2</key>
 			<data>
-			oNS/L+YQUC9yOU7O4wLXaTwf9/+7GML74Y78gP8i3hs=
+			bgljnyxhYq9JPmO/1Fh25Z9IfIeb60SvntNRq0u6xb4=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			z1/PAlD+/6hPcEMyUT7RHMpLWqE=
+			dzH0miuN/EPpWbAreOIl6P61DiI=
 			</data>
 			<key>hash2</key>
 			<data>
-			uC0cDQ7qNdWfeVlIt8SaWY+S8MYkn3ZfvY2AD0KHc5s=
+			00N6MikJ8alrzcVPBKcqxN3hjS4/fQOwfV3TtTcJAd4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+DA0bRZgH2Afa2p8iTGeJqTGamI=
+			Tyv8JuLJNQCDunO2/N4MuIiOegk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qg3mAPxJNBFQHAHTIpcTqmaaJkZtKCZlwB1H4xLFrlI=
+			H9vMIPOityBVI30dp25TTot6A1EGBoHqdsFsr46aj/A=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -587,22 +591,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2Vki7hcMdDYySg+PRWrmVgzxBxs=
+			Vlsq0LntW1GGP2xaCfu6jaMntRg=
 			</data>
 			<key>hash2</key>
 			<data>
-			exZwtBPu/4l3RL4Z3OmltFGNM6qt+4lBRX+PytKOlUM=
+			MCI7Hv8B/PP1Uz/DImZv3VFHLBdkqWOBvhp3MkQ/1GU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			I+LjMmIj+1hgvqXFX2gOr7Rfdv8=
+			rAERFeIgZdxw/3yZZFlWEOhie0Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			fWHKBy1+yNCg9nRXLW4WTCzLcyHjZyNhD5+vqsRgDqA=
+			YIf9hKXsjpjO1uOO9oAoLucP3xbmWE0dE4zYZzm4iqI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -627,6 +631,17 @@
 			Y5T4XdpvwUgretKDZsX35vz5bSqMuimD5FDcWbBhjLs=
 			</data>
 		</dict>
+		<key>Frameworks/App.framework/flutter_assets/assets/Gastro-cards.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1fw/fL8vfgcVD939SkexNPywf5w=
+			</data>
+			<key>hash2</key>
+			<data>
+			rr1Fy5sI/TpPFHm91tpCxaSZp89XmUjb3+911oqr768=
+			</data>
+		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/aga-logo-footer.png</key>
 		<dict>
 			<key>hash</key>
@@ -638,15 +653,15 @@
 			FvsznePC1yELhLYQ1U6Qll+6yZA1mbgKoUv8nVsZQSk=
 			</data>
 		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/aga-logo.png</key>
+		<key>Frameworks/App.framework/flutter_assets/assets/images/logos/aga-logo-footer.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1iH2o9k90WeDEWJnejB1su7zY2U=
+			RlBW8dydD/BTRE9E/TUWzqxHyLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			6A7qmd1c7OTr/e/ck7cAYnsyRYvNjMHf1RvoQbMb1NY=
+			FvsznePC1yELhLYQ1U6Qll+6yZA1mbgKoUv8nVsZQSk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf</key>
@@ -675,11 +690,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EsLlRx6/kHdIHV4YJvSPnPNIdOs=
+			iXNA6xtSilSDa8NFXUp3F0r5Nkw=
 			</data>
 			<key>hash2</key>
 			<data>
-			ab6lMuR1rAR8Srgek2f2GMngbXa7XN55nknVUqNM18g=
+			NQyZJxiUhx/KebuJuEeVzDIxvPwLKb7I1K7POe6cPP0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
