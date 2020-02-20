@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import './login_page.dart';
 
 class MainPage extends StatelessWidget {
   @override
@@ -76,7 +77,10 @@ class MainPage extends StatelessWidget {
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900),
                   ),
                   color: Colors.white,
-                  onPressed: () {/** */},
+                  onPressed: () {
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (context) => LoginPage()));
+                  },
                 ),
               ),
             ),
