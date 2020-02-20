@@ -1,6 +1,8 @@
-# gastro_initial
+# Gastro Cards
 
-A new Flutter project.
+Project Diagram
+
+![App Diagram](https://raw.githubusercontent.com/AmerGastroAssn/gastro-cards-flutter/master/assets/Gastro-cards.png)
 
 ## Getting Started
 
