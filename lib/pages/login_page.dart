@@ -17,7 +17,8 @@ class LoginPage extends StatelessWidget {
                 decoration: BoxDecoration(
                   color: Color(0xff112033),
                   image: DecorationImage(
-                    image: AssetImage('assets/aga-logo-footer.png'),
+                    image:
+                        AssetImage('assets/images/logos/aga-logo-footer.png'),
                     fit: BoxFit.contain,
                   ),
                 ),
